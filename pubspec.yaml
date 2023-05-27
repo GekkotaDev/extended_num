@@ -1,0 +1,15 @@
+name: extended_num
+description: Extensions to express numbers in plain English.
+version: 0.0.0
+repository: https://github.com/gekkotadev/extended_num.git
+
+environment:
+  sdk: ^3.0.0
+
+# Add regular dependencies here.
+# dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
